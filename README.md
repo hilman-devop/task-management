@@ -1,5 +1,6 @@
 # TaskFlow — Full-stack Task Management
 
+[![Build frontend](https://github.com/hilman-devop/task-management/actions/workflows/frontend-build.yml/badge.svg)](https://github.com/hilman-devop/task-management/actions/workflows/frontend-build.yml)
 > Aplikasi manajemen tugas full-stack dengan Laravel API, React, board kanban, drag-and-drop, dan autentikasi token.
 
 **Stack:** Laravel 11 · React 18 · Vite · Sanctum
