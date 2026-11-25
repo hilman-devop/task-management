@@ -5,7 +5,9 @@
 
 **Stack:** Laravel 11 · React 18 · Vite · Sanctum
 
-![Preview](https://raw.githubusercontent.com/hilman-devop/task-management/main/img/img1.png)
+![Board TaskFlow dengan data demo](img/img2.png)
+
+*Screenshot yang sudah tersedia di repository; menampilkan board dengan data demo, bukan data pengguna produksi.*
 
 ## Ringkasan
 
